@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 struct Time {
     var nextday : String
-    var weather : UIImage
+    var weather : String
     var TR : String
     var TD : String
 }

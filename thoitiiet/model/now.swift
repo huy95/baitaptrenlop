@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 struct Now {
     var hour : String
-    var weather : UIImage
+    var weather : String
     var T : String
 }
 
